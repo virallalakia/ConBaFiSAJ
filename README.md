@@ -1,6 +1,6 @@
 ConBaFiSAJ
 ==========
-Content based file splitter and joiner
+**Con**tent **Ba**sed **Fi**le **S**plitter **A**nd **J**oiner
 
 Help
 ----
